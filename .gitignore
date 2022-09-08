@@ -1,0 +1,8 @@
+# IntelliJ
+.idea/
+
+# Production
+out/
+
+# MacOS
+.DS_STORE
